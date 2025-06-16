@@ -1,1 +1,1 @@
-# Discord-Logg
+# Imagely
